@@ -22,13 +22,15 @@ Key:
 - Green = hotel
 - Blue = attactions
 
-<img width="984" height="500" alt="image" src="https://github.com/user-attachments/assets/93c7c04d-cb05-4341-b363-2cc308e91174" />
+<img width="982" height="500" alt="image" src="https://github.com/user-attachments/assets/963b9676-1b6e-48cb-b567-65dcb62a176e" />
+
 
 ## Suggested Route
 
 Kimpton Clocktower Hotel => John Rylands Library => Bar 11 => Bridge Street Tavern => Micro Bar => National Football Museum => Boom Battle Bar => Lono Cove => Fierce Bar => Common => Afflecks & Brown => Alan Turing Memorial => Kimpton Clocktower Hotel
 
-<img width="984" height="500" alt="image" src="https://github.com/user-attachments/assets/5d6e0469-9d42-401d-9aca-3cd53491ce9a" />
+<img width="980" height="497" alt="image" src="https://github.com/user-attachments/assets/34b7744e-fd27-4198-bfcb-6b731d0c275f" />
+
 
 ## Photos
 
